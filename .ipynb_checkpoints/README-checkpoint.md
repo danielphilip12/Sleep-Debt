@@ -1,6 +1,6 @@
 # Sleep Debt Analysis
 
-## Objective: TBD
+## Objective: What factors contribute to fewer sleep hours?
 
 ## Data Dictionary
 
