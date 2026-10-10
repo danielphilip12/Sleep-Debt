@@ -24,3 +24,5 @@
 | **morning_alarm_snoozes** | Integer | Number of times the participant hit snooze on their morning alarm. | Count |
 | **next_day_fatigue_score** | Float | Continuous target variable tracking subjective fatigue. | `1.0` to `10.0` |
 | **sleep_debt_category** | Categorical | Multi-class categorical target defining the severity of sleep deficit. | Multiclass labels |
+
+Source: https://www.kaggle.com/datasets/samartalwar/sleep-debt-and-screen-time-late-night-phone-habits/data
